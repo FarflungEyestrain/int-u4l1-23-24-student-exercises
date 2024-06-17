@@ -17,6 +17,6 @@ submitButton.addEventListener("click", function() {
     // CODE ALONG, PART 2
     // 6. User .innerHTML to display the value to the messages div.
     // 7. Type something and test it out.
-
+    messages.innerHTML = (userComment);
 
 });
